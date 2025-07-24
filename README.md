@@ -6,16 +6,10 @@
   <a href="https://linktr.ee/amanyadav7"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/></a>&nbsp;
       
 
-# 👉 About Me
-I'm Yadav Aman, a Proactive Computer Engineering student at GEC Dahod, actively pursuing a Bachelor's degree. Here’s a quick overview of what I do and how we can collaborate:
+# 👉 About Me :
+I’m Yadav Aman – a curious mind in Computer Engineering at GEC Dahod, passionate about tech, innovation, and making ideas happen.
 
-- **Certifications:** Postman API Student Expert
-- **Community Impact:** Beta Microsoft Student Ambassador.
-- **Expertise:** Cloud Computing, Web Development, Personal Branding.
-
-I’m passionate about technology and education. If you’re interested in working together on live projects, business strategy, or content creation, let’s connect and drop a message to start now! 🤝
-
-# 👉 Skills
+# 👉 Skills :
 
 ### Programming Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -48,12 +42,12 @@ I’m passionate about technology and education. If you’re interested in worki
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-# 👉 Achievements
+# 👉 Achievements & Certifications :
 
 - Beta Microsoft Student Ambassador .
 - Postman API Student Expert.
 
-# 👉 Follow me on Social Media
+# 👉 Follow me on Social Media :
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yadavaman11/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
