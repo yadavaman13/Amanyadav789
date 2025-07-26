@@ -6,10 +6,12 @@
   <a href="https://linktr.ee/amanyadav7"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/></a>&nbsp;
       
 
-# 👉 About Me :
-I’m Yadav Aman – a curious mind in Computer Engineering at GEC Dahod, passionate about tech, innovation, and making ideas happen.
+# About Me :
+Aspiring Software Development Engineer 🚀 | I love building meaningful digital solutions that solve real problems. From shaping ideas to deploying full-stack webapp, I enjoy crafting smooth backends with Node.js and Express, clean interfaces with React, and connecting everything through REST APIs.
 
-# 👉 Skills :
+Whether it's a solo project, a fast-paced hackathon, or an open-source collaboration, I’m always eager to build, learn, and contribute. If you're driven by innovation and collaboration, let’s connect and create something meaningful together 🤝
+
+# Skills :
 
 ### Programming Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -42,12 +44,12 @@ I’m Yadav Aman – a curious mind in Computer Engineering at GEC Dahod, passio
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-# 👉 Achievements & Certifications :
+# Achievements & Certifications :
 
 - Beta Microsoft Student Ambassador .
 - Postman API Student Expert.
 
-# 👉 Follow me on Social Media :
+# Follow me on Social Media :
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yadavaman11/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
