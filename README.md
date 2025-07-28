@@ -7,7 +7,7 @@
       
 
 # About Me :
-Aspiring Software Development Engineer 🚀 | I love building meaningful digital solutions that solve real problems. From shaping ideas to deploying full-stack webapp, I enjoy crafting smooth backends with Node.js and Express, clean interfaces with React, and connecting everything through REST APIs.
+Aspiring Software Development Engineer. I love building meaningful digital solutions that solve real problems. From shaping ideas to deploying full-stack webapp, I enjoy crafting smooth backends with Node.js and Express, clean interfaces with React, and connecting everything through REST APIs.
 
 Whether it's a solo project, a fast-paced hackathon, or an open-source collaboration, I’m always eager to build, learn, and contribute. If you're driven by innovation and collaboration, let’s connect and create something meaningful together 🤝
 
