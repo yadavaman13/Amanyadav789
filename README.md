@@ -46,8 +46,9 @@ Whether it's a solo project, a fast-paced hackathon, or an open-source collabora
 
 # Achievements & Certifications :
 
-- Beta Microsoft Student Ambassador .
-- Postman API Student Expert.
+- Beta Microsoft Student Ambassador
+- Postman API Student Expert
+- MongoDB Developers toolkit - GfG
 
 # Follow me on Social Media :
 
