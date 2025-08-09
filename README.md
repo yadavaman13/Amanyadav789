@@ -48,7 +48,7 @@ Whether it's a solo project, a fast-paced hackathon, or an open-source collabora
 
 - Beta Microsoft Student Ambassador
 - Postman API Student Expert
-- MongoDB Developers toolkit - GfG
+- MongoDB Developers toolkit - GeeksforGeeks
 
 # Follow me on Social Media :
 
