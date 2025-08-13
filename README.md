@@ -49,6 +49,7 @@ Whether it's a solo project, a fast-paced hackathon, or an open-source collabora
 - Beta Microsoft Student Ambassador
 - Postman API Student Expert
 - MongoDB Developers toolkit - GeeksforGeeks
+- 2x Hackathon Finalist
 
 # Follow me on Social Media :
 
